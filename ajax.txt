@@ -1,0 +1,12 @@
+install16706c5f004ad81600478494000000010000039adf5b86cece0201cde16b990087a2c806ef935f004ad8160047849400000001000003646a59a5a9d4be3bafb56c5f0cbad2d61600942104144b24-ijv00v.bitrix24.ru8a9a3e43fd7a13d55e3c7a19bbf6ee13
+                    */5 * * * * root php /var/www/html/run.php >/dev/null 2>&1 b24-ijv00v.bitrix24.ru
+                    
+                    */5 * * * * root php /var/www/html/run.php >/dev/null 2>&1 b24-ijv00v.bitrix24.ru
+                    
+*/5 * * * * root php /var/www/html/run.php >/dev/null 2>&1 b24-ijv00v.bitrix24.ru
+
+*/5 * * * * root php /var/www/html/run.php >/dev/null 2>&1 b24-3of8yi.bitrix24.ru
+
+*/5 * * * * root php /var/www/html/run.php >/dev/null 2>&1 b24-3of8yi.bitrix24.ru
+
+*/5 * * * * root php /var/www/html/run.php >/dev/null 2>&1 b24-3of8yi.bitrix24.ru

@@ -1,0 +1,9 @@
+{
+    "require": {
+        "doctrine/orm": "^2.7",
+        "doctrine/migrations": "^3.0",
+        "symfony/orm-pack": "^2.0",
+      "ext-json": "*",
+      "ext-curl": "*"
+    }
+}
